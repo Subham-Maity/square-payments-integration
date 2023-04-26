@@ -1,6 +1,6 @@
 # Square Payment Gateway with Next.js
+![image](https://user-images.githubusercontent.com/97989643/234594321-20f09c47-fc2e-4952-9069-8737e675ccdb.png)
 
-![image](https://user-images.githubusercontent.com/112578419/231397697-542cb446-46ba-4705-82b8-a76df7f96edb.png)
 
 ## Getting Started
 
