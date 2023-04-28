@@ -205,3 +205,80 @@ button:disabled {
 #afterpay-button {
   height: 40px;
 }
+
+
+
+button {
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 12px 16px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.card-payment {
+  background-color: blue;
+  color: white;
+}
+
+.store-card {
+  background-color: green;
+  color: white;
+}
+
+.charge-card {
+  background-color: orange;
+  color: white;
+}
+
+.apple-pay {
+  background-color: black;
+  color: white;
+}
+
+.google-pay {
+  background-color: red;
+  color: white;
+}
+
+.payment-request {
+  background-color: purple;
+  color: white;
+}
+
+.ach-bank-transfer {
+  background-color: gray;
+  color: white;
+}
+
+.gift-card {
+  background-color: brown;
+  color: white;
+}
+
+.afterpay {
+  background-color: teal;
+  color: white;
+}
+
+.card-styling {
+  background-color: #ddd;
+  color: black;
+}
+
+.cash-app-pay {
+  background-color: #22c58b;
+  color: white;
+}
+
+button i {
+  margin-right: 8px;
+}
+
+@media screen and (max-width: 768px) {
+  button {
+    padding: 10px 14px;
+  }
+}
